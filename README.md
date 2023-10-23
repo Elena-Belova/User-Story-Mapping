@@ -19,6 +19,8 @@ _Инструменты:_<br>
 Канбан-доска создана в ***YouGile***, Mind Map - в ***Xmind***
 
 **User Story Mapping**
-
+![User Story Mapping](https://github.com/Elena-Belova/User-Story-Mapping/assets/148638077/ffa531e3-82ae-4fff-87d0-7887864e75a2)
 
 **Example Mapping**
+![Example Mapping](https://github.com/Elena-Belova/User-Story-Mapping/assets/148638077/ebacf6e4-a9fa-4e5e-940c-02a37bf4bfc8)
+
