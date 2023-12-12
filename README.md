@@ -24,4 +24,4 @@ _Инструменты:_<br>
 **Example Mapping**
 ![Example Mapping](https://github.com/Elena-Belova/User-Story-Mapping/assets/148638077/ebacf6e4-a9fa-4e5e-940c-02a37bf4bfc8)
 
-[Example Mapping в pdf](https://github.com/Elena-Belova/User-Story-Mapping/blob/0ac98647539b52dee5fade5164bbe19373766f6d/Example%20Mapping.pdf)
+[Example Mapping в pdf](https://github.com/Elena-Belova/User-Story-Mapping/blob/05bce2032a61859c8ac4d63186c6be826afae1cf/Example%20Mapping.pdf)
